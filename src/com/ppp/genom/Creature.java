@@ -20,7 +20,7 @@ public abstract class Creature implements ICreature {
 
     protected abstract int getEnergyCapacity();
 
-    protected abstract float getAliveEnergyThresh
+    protected abstract float getAliveEnergyThreshHold();
 
     @Override
     public boolean isAlive() {
