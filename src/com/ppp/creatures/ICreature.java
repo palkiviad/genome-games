@@ -1,4 +1,4 @@
-package com.ppp.genom;
+package com.ppp.creatures;
 
 /**
  * Created with IntelliJ IDEA.

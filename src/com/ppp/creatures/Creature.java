@@ -1,4 +1,6 @@
-package com.ppp.genom;
+package com.ppp.creatures;
+
+import com.ppp.genome.IGenome;
 
 /**
  * Created with IntelliJ IDEA.
